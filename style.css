@@ -1,0 +1,71 @@
+body{
+        background-image: url(kl.WEBP);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        border: 19px groove greenyellow;
+}
+*{
+        marign: 0px;
+}
+.heading{
+        background: blue;
+        color: white;
+        text-align: center;
+        margin-top: 50px;
+        margin-right: 40px;
+        margin-bottom: 30px;
+        margin-left: 20px;
+        border: 4px dotted red;
+}
+.heading:hover{
+    background: red;
+    color: blue;
+    border:4px dotted white;
+}
+.text{
+        background: lightpink;
+        font-family: cursive;
+        margin: 30px 20px 10px 50px;
+        padding: 30px;
+}
+.text:hover{
+    background: pink;
+    color: white;
+}
+.list{
+    background: lightgreen;
+    text-align:center;
+    font-family: fantasy;
+    font-size: 20px;
+    color: white;
+}
+.loi{
+        margin: 50px;
+}
+#para{
+        border: 6px dashed darkcyan ;
+        color: white;
+        overflow: auto;
+}
+#image{
+    float: right;
+    padding: 5px;
+}
+p{
+    text-aling: justify;
+}
+.hi{
+    margin: 30px 100px 10px 500px;
+
+}
+.spn{
+    color: red;
+    background: yellow;
+
+}
+.spn2{
+    color: blue;
+    background: green;
+}
+
